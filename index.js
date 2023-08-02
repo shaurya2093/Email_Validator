@@ -5,11 +5,7 @@ export default function Home() {
   const [email, setEmail] = useState("");
   const [res, setRes] = useState(false);
 
-  /**
-   *
-   *
-   * Checks validatity of en email
-   */
+ 
   const checkValidity = async (e) => {
     e.preventDefault();
     try {
