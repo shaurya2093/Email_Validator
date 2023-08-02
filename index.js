@@ -95,11 +95,7 @@ export default function Home() {
       </div>
       <div className="absolute bottom-0 mt-8 flex justify-center items-end h-36 md:h-44">
         <p className="text-primary pb-12 md:w-60 md:text-center">
-          Made by RapidAPI DevRel Team –{" "}
           <a href="https://github.com/RapidAPI/DevRel-Examples-External">
-            <span className="transition duration-300 hover:text-secondary">
-              See Examples Like this
-            </span>
           </a>
         </p>
       </div>
