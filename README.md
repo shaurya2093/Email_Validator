@@ -5,4 +5,4 @@ To solve this problem , I am building a website to validate anyone's email.
 My approach will be to use an Email Validator API.
 
 
-Anyone who wants to contribute may join.
+Anyone who wants to contribute may join
