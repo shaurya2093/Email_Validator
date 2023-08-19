@@ -1,6 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
-
+# this is the base page
 export default function Home() {
   const [email, setEmail] = useState("");
   const [res, setRes] = useState(false);
